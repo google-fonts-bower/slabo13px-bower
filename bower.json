@@ -1,0 +1,17 @@
+{
+    "name": "slabo13px-googlefont",
+    "license": "OFL",
+    "authors": [
+        "John Hudson"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/slabo13px-bower.git"
+    },
+    "description": "Slabo 13px font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
